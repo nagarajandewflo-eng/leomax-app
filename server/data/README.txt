@@ -1,0 +1,1 @@
+This folder contains products.json - the sample data you provided.

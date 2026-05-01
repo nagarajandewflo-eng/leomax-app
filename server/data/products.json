@@ -1,0 +1,800 @@
+[
+  {
+    "id": "1",
+    "name": "AquaPure RO Purifier",
+    "brandName": "AquaPure",
+    "buyingPrice": 12000,
+    "sellingPrice": 15000,
+    "vendorPrice": 10000,
+    "quantity": 10,
+    "date": "2025-09-01",
+    "images": [
+      "/assets/WaterPurifierimg-DGUBGVUi.jpg"
+    ],
+    "isTopSelling": true,
+    "isFeatured": false,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Multispeciality RO system"
+      },
+      {
+        "name": "Capacity",
+        "value": "10 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "6 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "Copper"
+      },
+      {
+        "name": "Power",
+        "value": "Rechargeable Battery"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "PureLife Copper+ RO",
+    "brandName": "PureLife",
+    "buyingPrice": 15000,
+    "sellingPrice": 19000,
+    "vendorPrice": 13000,
+    "quantity": 8,
+    "date": "2025-09-03",
+    "images": [
+      "/assets/WaterPurifierImg3-8wXNoNZP.jpg"
+    ],
+    "isTopSelling": true,
+    "isFeatured": false,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "RO with Copper Infusion"
+      },
+      {
+        "name": "Capacity",
+        "value": "12 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "5 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "RO + Copper"
+      },
+      {
+        "name": "Power",
+        "value": "Electric with Battery Backup"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "SmartHydra IoT Purifier",
+    "brandName": "SmartHydra",
+    "buyingPrice": 20000,
+    "sellingPrice": 25000,
+    "vendorPrice": 17000,
+    "quantity": 6,
+    "date": "2025-09-05",
+    "images": [
+      "/assets/WaterPurifierimg2-BNE_yrpG.jpg"
+    ],
+    "isTopSelling": true,
+    "isFeatured": false,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "IoT-enabled smart purifier"
+      },
+      {
+        "name": "Capacity",
+        "value": "15 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "7 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "Hybrid RO + UV"
+      },
+      {
+        "name": "Power",
+        "value": "Wi-Fi enabled, Electric"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "AquaFresh Advanced RO",
+    "brandName": "AquaFresh",
+    "buyingPrice": 11000,
+    "sellingPrice": 14500,
+    "vendorPrice": 9500,
+    "quantity": 12,
+    "date": "2025-09-06",
+    "images": [
+      "/assets/WaterPurifierimg2-BNE_yrpG.jpg"
+    ],
+    "isTopSelling": true,
+    "isFeatured": false,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Advanced RO with UV"
+      },
+      {
+        "name": "Capacity",
+        "value": "9 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "4 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "RO"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "HydroPro Smart Filter",
+    "brandName": "HydroPro",
+    "buyingPrice": 14000,
+    "sellingPrice": 18000,
+    "vendorPrice": 12000,
+    "quantity": 7,
+    "date": "2025-09-07",
+    "images": [
+      "/assets/WaterPurifierImg4-CSaOmSFB.jpg"
+    ],
+    "isTopSelling": true,
+    "isFeatured": false,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Smart RO + IoT monitoring"
+      },
+      {
+        "name": "Capacity",
+        "value": "14 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "6 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "Hybrid"
+      },
+      {
+        "name": "Power",
+        "value": "Smart Wi-Fi Enabled"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "BlueWave Max RO",
+    "brandName": "BlueWave",
+    "buyingPrice": 13000,
+    "sellingPrice": 17000,
+    "vendorPrice": 11000,
+    "quantity": 9,
+    "date": "2025-09-08",
+    "images": [
+      "/assets/WaterPurifierimg-DGUBGVUi.jpg"
+    ],
+    "isTopSelling": true,
+    "isFeatured": false,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "RO + Alkaline filter"
+      },
+      {
+        "name": "Capacity",
+        "value": "11 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "5 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "RO"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "CrystalPure RO Deluxe",
+    "brandName": "CrystalPure",
+    "buyingPrice": 16000,
+    "sellingPrice": 20000,
+    "vendorPrice": 14000,
+    "quantity": 5,
+    "date": "2025-09-09",
+    "images": [
+      "/assets/WaterPurifierImg3-8wXNoNZP.jpg"
+    ],
+    "isTopSelling": true,
+    "isFeatured": false,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "RO with Mineral Guard"
+      },
+      {
+        "name": "Capacity",
+        "value": "13 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "6 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "RO + Mineral"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "HydroSmart UV Purifier",
+    "brandName": "HydroSmart",
+    "buyingPrice": 9000,
+    "sellingPrice": 12000,
+    "vendorPrice": 8000,
+    "quantity": 5,
+    "date": "2025-09-02",
+    "images": [
+      "/assets/WaterPurifierimg2-BNE_yrpG.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": true,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "UV-based purifier"
+      },
+      {
+        "name": "Capacity",
+        "value": "8 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "4 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "Carbon"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "EcoFresh Deluxe UV",
+    "brandName": "EcoFresh",
+    "buyingPrice": 10000,
+    "sellingPrice": 13000,
+    "vendorPrice": 8500,
+    "quantity": 7,
+    "date": "2025-09-10",
+    "images": [
+      "/assets/WaterPurifierImg4-CSaOmSFB.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": true,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "UV + Carbon filter system"
+      },
+      {
+        "name": "Capacity",
+        "value": "9 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "3 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "UV"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "AquaLite Premium UV",
+    "brandName": "AquaLite",
+    "buyingPrice": 9500,
+    "sellingPrice": 12500,
+    "vendorPrice": 8200,
+    "quantity": 6,
+    "date": "2025-09-11",
+    "images": [
+      "/assets/WaterPurifierimg2-BNE_yrpG.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": true,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Compact UV Purifier"
+      },
+      {
+        "name": "Capacity",
+        "value": "7 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "3 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "Carbon + UV"
+      },
+      {
+        "name": "Power",
+        "value": "Rechargeable Battery"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "SmartWave Touch UV",
+    "brandName": "SmartWave",
+    "buyingPrice": 11500,
+    "sellingPrice": 14500,
+    "vendorPrice": 9500,
+    "quantity": 8,
+    "date": "2025-09-12",
+    "images": [
+      "/assets/WaterPurifierimg-DGUBGVUi.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": true,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "UV with smart touch controls"
+      },
+      {
+        "name": "Capacity",
+        "value": "10 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "4 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "Carbon + UV"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "BlueDrop Ultra UV",
+    "brandName": "BlueDrop",
+    "buyingPrice": 10500,
+    "sellingPrice": 14000,
+    "vendorPrice": 8800,
+    "quantity": 7,
+    "date": "2025-09-13",
+    "images": [
+      "/assets/WaterPurifierImg3-8wXNoNZP.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": true,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Ultra filtration + UV"
+      },
+      {
+        "name": "Capacity",
+        "value": "11 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "5 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "UV"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "CrystalClear UV Guard",
+    "brandName": "CrystalClear",
+    "buyingPrice": 9800,
+    "sellingPrice": 13000,
+    "vendorPrice": 8300,
+    "quantity": 6,
+    "date": "2025-09-14",
+    "images": [
+      "/assets/WaterPurifierimg2-BNE_yrpG.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": true,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "UV with mineral booster"
+      },
+      {
+        "name": "Capacity",
+        "value": "8 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "3 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "UV"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "HydroX Smart UV",
+    "brandName": "HydroX",
+    "buyingPrice": 11200,
+    "sellingPrice": 15000,
+    "vendorPrice": 9200,
+    "quantity": 9,
+    "date": "2025-09-15",
+    "images": [
+      "/assets/WaterPurifierimg2-BNE_yrpG.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": true,
+    "isBudgetFriendly": false,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Smart UV IoT-enabled"
+      },
+      {
+        "name": "Capacity",
+        "value": "10 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "4 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "UV + Carbon"
+      },
+      {
+        "name": "Power",
+        "value": "Wi-Fi Enabled"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "EcoFresh Budget Purifier",
+    "brandName": "EcoFresh",
+    "buyingPrice": 7000,
+    "sellingPrice": 10000,
+    "vendorPrice": 6000,
+    "quantity": 15,
+    "date": "2025-09-04",
+    "images": [
+      "/assets/WaterPurifierImg4-CSaOmSFB.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": false,
+    "isBudgetFriendly": true,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Affordable RO + UV system"
+      },
+      {
+        "name": "Capacity",
+        "value": "7 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "3 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "RO"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "PureLite Budget RO",
+    "brandName": "PureLite",
+    "buyingPrice": 7500,
+    "sellingPrice": 10500,
+    "vendorPrice": 6500,
+    "quantity": 14,
+    "date": "2025-09-16",
+    "images": [
+      "/assets/WaterPurifierimg2-BNE_yrpG.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": false,
+    "isBudgetFriendly": true,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Budget RO with carbon filter"
+      },
+      {
+        "name": "Capacity",
+        "value": "8 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "3 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "RO"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "AquaSaver Compact RO",
+    "brandName": "AquaSaver",
+    "buyingPrice": 6800,
+    "sellingPrice": 9500,
+    "vendorPrice": 5500,
+    "quantity": 20,
+    "date": "2025-09-17",
+    "images": [
+      "/assets/WaterPurifierimg-DGUBGVUi.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": false,
+    "isBudgetFriendly": true,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Compact RO system"
+      },
+      {
+        "name": "Capacity",
+        "value": "6 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "RO"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "SmartBudget RO+UV",
+    "brandName": "SmartBudget",
+    "buyingPrice": 8000,
+    "sellingPrice": 11000,
+    "vendorPrice": 7000,
+    "quantity": 18,
+    "date": "2025-09-18",
+    "images": [
+      "/assets/WaterPurifierimg2-BNE_yrpG.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": false,
+    "isBudgetFriendly": true,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Affordable RO + UV combo"
+      },
+      {
+        "name": "Capacity",
+        "value": "9 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "3 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "RO + UV"
+      },
+      {
+        "name": "Power",
+        "value": "Rechargeable Battery"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "HydroBasic Purifier",
+    "brandName": "HydroBasic",
+    "buyingPrice": 7200,
+    "sellingPrice": 9800,
+    "vendorPrice": 6000,
+    "quantity": 16,
+    "date": "2025-09-19",
+    "images": [
+      "/assets/WaterPurifierImg3-8wXNoNZP.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": false,
+    "isBudgetFriendly": true,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Simple RO filter"
+      },
+      {
+        "name": "Capacity",
+        "value": "7 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "RO"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "CrystalBudget Compact UV",
+    "brandName": "CrystalBudget",
+    "buyingPrice": 7800,
+    "sellingPrice": 10200,
+    "vendorPrice": 6500,
+    "quantity": 13,
+    "date": "2025-09-20",
+    "images": [
+      "/assets/WaterPurifierImg4-CSaOmSFB.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": false,
+    "isBudgetFriendly": true,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "UV + Carbon filter (budget)"
+      },
+      {
+        "name": "Capacity",
+        "value": "8 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "UV"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "EcoWave Basic RO",
+    "brandName": "EcoWave",
+    "buyingPrice": 6500,
+    "sellingPrice": 9000,
+    "vendorPrice": 5500,
+    "quantity": 19,
+    "date": "2025-09-21",
+    "images": [
+      "/assets/WaterPurifierimg2-BNE_yrpG.jpg"
+    ],
+    "isTopSelling": false,
+    "isFeatured": false,
+    "isBudgetFriendly": true,
+    "customFields": [
+      {
+        "name": "specialization",
+        "value": "Basic RO purifier"
+      },
+      {
+        "name": "Capacity",
+        "value": "6 L"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      },
+      {
+        "name": "Membrane Type",
+        "value": "RO"
+      },
+      {
+        "name": "Power",
+        "value": "Direct Electric"
+      }
+    ]
+  }
+]
