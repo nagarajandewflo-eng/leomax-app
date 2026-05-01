@@ -18,3 +18,4 @@ API endpoints:
 - Seed script reads `data/products.json` and inserts rows; it will skip if a primary key already exists.
 "# water_purifier_api" 
 "# leomax-app" 
+"# leomax-app" 
